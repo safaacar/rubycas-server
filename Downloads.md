@@ -1,0 +1,1 @@
+See https://github.com/rubycas/rubycas-server#installation
